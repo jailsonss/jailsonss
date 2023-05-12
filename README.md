@@ -26,4 +26,4 @@ No mesmo cargo, trabalhei realizando manutenção Full Stack em aplicações PHP
 - Controle de versão com Git e Bitbucket;
 - Gerenciamento de servidores Linux com WHM e CPanel, DigitalOcean e AWS.
 
-Atualmente, desenvolvo sites em Wordpress como freelancer e estou me especializando em React e Angular.
+Atualmente, desenvolvo sites em Wordpress como freelancer e estou me especializando em React, Angular e Ruby on Rails.
