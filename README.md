@@ -1,29 +1,34 @@
-### Hi there 👋
+# Hi there 👋 I'm Jailson Silva
 
-<!--
-**jailsonss/jailsonss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Supervisor de Desenvolvimento & Tech Lead com 7 anos de experiência em engenharia de software e sustentação de sistemas críticos. Atualmente lidero squads multidisciplinares focado em qualidade de código, arquitetura modular e integração inteligente de IA no fluxo de desenvolvimento.
 
-Here are some ideas to get you started:
+Também sou o fundador da **Paradoxo Labs**, um hub de inovação e laboratório pessoal focado em experimentação técnica e desenvolvimento de produtos de alta performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-Sou um Gestor de T.I./IT Manager formado em 2019 na Faculdade Internacional da Paraíba (FPB).
+### 🧪 No que estou trabalhando no momento (Paradoxo Labs)
 
-Tenho 7 anos de experiência com Suporte ao cliente para empresas de telecomunicações, sistemas de automação comercial e aplicações web.
-Além disso, acumulo 3 anos e meio de habilidades em liderança de equipe, gerenciamento de serviços, tarefas e ferramentas de T.I., trabalhando como Analista de Suporte Web, sendo responsável pelo setor.
-No mesmo cargo, trabalhei realizando manutenção Full Stack em aplicações PHP (Wordpress, Laravel/October CMS, Zend e Twig), Vue.js e React. Para auxiliar no desenvolvimento, utilizei os seguintes serviços e ferramentas:
-- Pré-processamento de CSS com SASS;
-- Automação de tarefas com Gulp;
-- Gerenciamento de pacotes com NPM e Yarn;
-- Controle de versão com Git e Bitbucket;
-- Gerenciamento de servidores Linux com WHM e CPanel, DigitalOcean e AWS.
+* 💼 **Gestor de Projetos:** Desenvolvendo um ecossistema modular do zero utilizando **Laravel 11** (Laravel Modules) no backend e **Next.js** no frontend, aplicando Clean Architecture e esteiras de CI/CD automatizadas.
+* 🧠 **Agentes de IA:** Construindo e testando assistentes autônomos para automatizar tarefas repetitivas de desenvolvimento (como pré-validação de código e Code Review no padrão PSR-12).
+* ⚡ **Sustentação Avançada:** Refatorando e modernizando portais legados para arquiteturas fluidas focadas em performance e SEO em tempo real.
 
-Atualmente, desenvolvo sites em Wordpress como freelancer e estou me especializando em React, Angular e Ruby on Rails.
+---
+
+### 🛠️ Minha Stack Técnica
+
+* **Backend:** PHP (Laravel 10/11), Python (Django), RESTful APIs, SOLID, Clean Architecture
+* **Frontend:** JavaScript / TypeScript, Next.js, Vue.js (Nuxt 3), Tailwind CSS
+* **Infra & DevOps:** Docker, AWS, DigitalOcean, GitLab CI/CD, GitHub Actions, Linux
+* **Bancos de Dados:** MySQL, PostgreSQL, SQL Server
+
+---
+
+### 📊 Conecte-se comigo
+
+* 🌐 **Website / Lab:** [paradoxolabs.com.br](https://paradoxolabs.com.br)
+* 💼 **LinkedIn:** [linkedin.com/in/jailsonss](https://www.linkedin.com/in/jailsonss)
+* 📸 **Instagram:** [@dev.jailson](https://instagram.com/dev.jailson)
+* 🧪 **Instagram do Lab:** [@paradoxolabs](https://instagram.com/paradoxolabs)
+
+---
+*Menos reuniões desnecessárias, mais código limpo rodando em produção.*
